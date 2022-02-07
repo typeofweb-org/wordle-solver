@@ -1,0 +1,15 @@
+{
+  "name": "wordle-solver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/inquirer": "8.2.0",
+    "typescript": "4.5.5"
+  },
+  "dependencies": {
+    "@types/node": "17.0.15",
+    "inquirer": "8.2.0"
+  }
+}
